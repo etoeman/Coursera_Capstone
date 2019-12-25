@@ -1,2 +1,2 @@
-# Coursera_Capstone_2
+# Coursera_Capstone
 IBM Capstone project for certification
